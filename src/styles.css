@@ -1,1 +1,6 @@
-/* You can add global styles to this file, and also import other style files */
+
+html, body { height: 100%; }
+body { 
+    /* background-image: url('https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTPBfwb_S_5d1YsgHyTDOMzETQSv3j3BOAl5YvaM8I8kEcjsYgOUHF_IwBnna4XYO5BMN8&usqp=CAU'); */
+    /* background: transparent; */
+    margin: 0; font-family: Roboto, "Helvetica Neue", sans-serif; }

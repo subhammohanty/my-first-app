@@ -1,0 +1,35 @@
+/* ::ng-deep .ui-table table {
+    table-layout: auto;
+} */
+
+.thColor{
+  /* border: 2pt solid black; */
+  background-image: url('https://upload.wikimedia.org/wikipedia/commons/1/15/Recipe_logo.jpeg');
+}
+
+
+/* .color{
+  border: 1px solid red;
+} */
+
+   
+  /* Override the table background */
+/* .p-table .p-datatable { */
+    /* background-color: #f4f4f4; Add your desired background color */
+  /* } */
+   
+  /* Override the header background */
+  /* .p-table .p-datatable thead th {
+    background-color: #e0e0e0; /* Add your desired header background color */
+  /* } */
+   /* */ 
+   
+   
+  /* Override the row background on hover */
+  /* .p-table .p-datatable tbody tr:hover {
+    background-color: #d3d3d3; /* Add your desired row background color on hover */
+  /* } */
+  /* Override the selected row background */
+  /* .p-table .p-datatable tbody tr.p-highlight {
+    background-color: #a0a0a0; /* Add your desired background color for selected rows */
+  /* } */ 
